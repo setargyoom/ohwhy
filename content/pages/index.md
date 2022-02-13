@@ -51,14 +51,14 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: AyolahZy
+  title: OhWhy
   description: Temukan beragam informasi menarik untuk Anda!
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: AyolahZy
+      value: OhWhy
       keyName: property
     - name: 'og:description'
       value: Temukan beragam informasi menarik untuk Anda!
@@ -70,7 +70,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: AyolahZy
+      value: OhWhy
     - name: 'twitter:description'
       value: Temukan beragam informasi menarik untuk Anda!
     - name: 'twitter:image'
