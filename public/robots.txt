@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://ayolahzy.netlify.app/sitemap.xml
+Sitemap: https://ohwhy.vercel.app/sitemap.xml
