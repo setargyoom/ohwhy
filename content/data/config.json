@@ -1,5 +1,5 @@
 {
-    "title": "AyolahZy",
+    "title": "OhWhy",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -7,9 +7,9 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "AyolahZy",
-        "logo": "images/ayolahzy.png",
-        "logo_alt": "AyolahZy",
+        "title": "OhWhy",
+        "logo": "images/ohwhy.png",
+        "logo_alt": "OhWhy",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
@@ -41,8 +41,8 @@
         ]
     },
     "footer": {
-        "logo": "images/ayolahzy.png",
-        "logo_alt": "AyolahZy",
+        "logo": "images/ohwhy.png",
+        "logo_alt": "OhWhy",
         "has_primary_nav": true,
         "primary_nav_title": "Sekilas",
         "primary_nav_links": [
@@ -143,7 +143,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; AyolahZy. All rights reserved. This site was created with ❤️ "
+        "content": "&copy; OhWhy. All rights reserved. This site was created with ❤️ "
     },
     "announcement": {
         "has_anncmnt": false,
