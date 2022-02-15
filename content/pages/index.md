@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Selamat Datang
-    subtitle: Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
+    title: Welcome
+    subtitle: We hope you like it. Have a nice day!
     actions:
-      - label: Terima Kasih
+      - label: Thank You
         url: /thank-you
         style: primary
     background_image: images/background.svg
@@ -19,7 +19,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: blog_feed_section
-    title: Apa yang baru
+    title: What's new
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
@@ -35,10 +35,10 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Siap Bereksplorasi?
-    content: Temukan beragam informasi menarik untuk Anda!
+    title: Ready to Explore?
+    content: Find a variety of interesting information for you!
     actions:
-      - label: Eksplor Sekarang
+      - label: Explore Now
         url: /blog
         style: primary
     actions_width: fourty
@@ -52,7 +52,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: OhWhy
-  description: Temukan beragam informasi menarik untuk Anda!
+  description: Find a variety of interesting information for you!
   extra:
     - name: 'og:type'
       value: website
@@ -61,7 +61,7 @@ seo:
       value: OhWhy
       keyName: property
     - name: 'og:description'
-      value: Temukan beragam informasi menarik untuk Anda!
+      value: Find a variety of interesting information for you!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -72,7 +72,7 @@ seo:
     - name: 'twitter:title'
       value: OhWhy
     - name: 'twitter:description'
-      value: Temukan beragam informasi menarik untuk Anda!
+      value: Find a variety of interesting information for you!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
