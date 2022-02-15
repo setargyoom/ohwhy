@@ -28,4 +28,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Ini adalah halaman about yang dapat Anda lihat. Terima kasih :)
+Hello everyone... :)
