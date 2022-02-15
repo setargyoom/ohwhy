@@ -4,27 +4,27 @@ sections:
   - type: hero_section
     title: Frequently Asked Questions
     subtitle: >-
-      Informasi Seputar Situs Ini
+      Information About This Site
     align: center
     padding_top: large
     padding_bottom: none
   - type: grid_section
     grid_items:
-      - title: Masih dalam tahap pengembangan?
+      - title: Still in development stage?
         content: >-
-          Masih dalam tahap pengembangan, :)
-      - title: Masih dalam tahap pengembangan?
+          Still under development, :)
+      - title: Still in development stage?
         content: >-
-          Masih dalam tahap pengembangan, :)
-      - title: Masih dalam tahap pengembangan?
+          Still under development, :)
+      - title: Still in development stage?
         content: >-
-          Masih dalam tahap pengembangan, :)
-      - title: Masih dalam tahap pengembangan?
+          Still under development, :)
+      - title: Still in development stage?
         content: >-
-          Masih dalam tahap pengembangan, :)
-      - title: Masih dalam tahap pengembangan?
+          Still under development, :)
+      - title: Still in development stage?
         content: >-
-          Masih dalam tahap pengembangan, :)
+          Still under development, :)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
