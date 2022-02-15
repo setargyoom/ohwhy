@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: Temukan beragam informasi menarik untuk Anda!
+    subtitle: Find a variety of interesting information for you!
     align: center
     padding_top: medium
     padding_bottom: none
