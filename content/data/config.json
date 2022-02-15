@@ -29,12 +29,12 @@
                 "style": "primary"
             },
             {
-                "label": "Kontak",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "secondary"
             },
             {
-                "label": "Terima Kasih",
+                "label": "Thank You",
                 "url": "/thank-you",
                 "style": "primary"
             }
@@ -44,7 +44,7 @@
         "logo": "images/ohwhy.png",
         "logo_alt": "OhWhy",
         "has_primary_nav": true,
-        "primary_nav_title": "Sekilas",
+        "primary_nav_title": "At a glance",
         "primary_nav_links": [
             {
                 "label": "About",
@@ -52,12 +52,12 @@
                 "style": "link"
             },
             {
-                "label": "Kontak",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             },
             {
-                "label": "Terima Kasih",
+                "label": "Thank You",
                 "url": "/thank-you",
                 "style": "link"
             }
@@ -71,12 +71,12 @@
                 "style": "link"
             },
             {
-                "label": "Penyimpanan",
+                "label": "Category 2",
                 "url": "/blog/category/penyimpanan",
                 "style": "link"
             },
             {
-                "label": "Tutorial",
+                "label": "Category 3",
                 "url": "/blog/category/tutorial",
                 "style": "link"
             }
@@ -153,6 +153,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://ayolahzy.netlify.app",
+    "domain": "https://ohwhy.vercel.app",
     "favicon": "/images/no name.jpg"
 }
