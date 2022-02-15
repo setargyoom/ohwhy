@@ -72,12 +72,12 @@
             },
             {
                 "label": "Category 2",
-                "url": "/blog/category/penyimpanan",
+                "url": "/blog/category/2",
                 "style": "link"
             },
             {
                 "label": "Category 3",
-                "url": "/blog/category/tutorial",
+                "url": "/blog/category/3",
                 "style": "link"
             }
         ],
