@@ -66,8 +66,8 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "Ikan",
-                "url": "/blog/category/ikan",
+                "label": "Category 1",
+                "url": "/blog/category/1",
                 "style": "link"
             },
             {
