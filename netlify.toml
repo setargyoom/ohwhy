@@ -8,8 +8,4 @@ environment = { NODE_VERSION = "12" }
   to = "/404"
   status = 404
 
-[[redirects]] 
-from = "https://ayolahzy.netlify.com/*"
- to = "https://www.ayolahzy.my.id/:splat" 
-status = 301 
-force = true
+
