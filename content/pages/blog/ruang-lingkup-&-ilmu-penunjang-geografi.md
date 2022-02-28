@@ -89,17 +89,17 @@ Geografi teknik adalah kajian tentang penggunaan keahlian-keahlian teknis dalam 
 #### c. Ilmu penunjang geografi 
 
 Untuk semakin memperjelas ruang lingkup geografi, berikut adalah beberapa disiplin ilmu yang sangat erat kaitannya dengan geografi atau merupakan cabang-cabang dari geografi.
-1. Geologi : ilmu yang mempelajari bumi secara keseluruhan, kejadian, struktur, komposisi, sejarah, dan proses perkembangannya.
-2. Geofisika : ilmu yang mengkaji sifat-sifat bagian dalam bumi dengan metode dan teknik fisika, seperti mengukur gelombang seismik, gravitasi, dan medan magnet bumi.
-3. Meteorologi : ilmu yang mempelajari fenomena-fenomena atmosfer, misalnya udara, cuaca, suhu, dan angin.
-4. Astronomi : ilmu yang mempelajari benda-benda langit di luar angkasa, seperti bulan, bintang, planet, dan galaksi.
-5. Biogeografi : studi tentang persebaran makhluk hidup secara geografis di muka bumi.
-6. Geomorfologi : studi tentang bentuk-bentuk muka bumi dan segala proses yang menghasilkan bentuk-bentuk tersebut.
-7. Hidrografi : ilmu yang berhubungan dengan pengukuran, serta pemetaan wilayah perairan seperti laut, danau, dan sungai.
-8. Oceanografi : ilmu yang mempelajari lautan, misalnya sifat air laut, pasang surut, arus laut, dan morfologi dasar laut.
-9. Paleontologi : ilmu yang mengkaji tentang fosil-fosil serta bentuk-bentuk kehidupan di masa purba (prasejarah) yang terdapat di bawah lapisan-lapisan bumi.
-10. Antropogeografi : cabang geografi yang mempelajari penyebaran bangsa-bangsa di muka bumi dilihat dari sudut geografis. Oleh karena itu, bidang ilmu ini disebut juga etnogeografi.
-11. Geografi Matematis : ilmu geografi yang berkenaan dengan perhitungan bentuk, ukuran, serta gerakan bumi: lintang dan bujur, meridian, paralel, dan luas permukaan bumi.
-12. Geografi Sejarah : cabang geografi yang mempelajari manusia dan geografi dari sudut sejarah dan perkembangannya.
-13. Geografi Regional : cabang geografi yang mempelajari suatu kawasan tertentu secara khusus, misalnya, geografi regional Asia, geografi regional Amerika, dan geografi regional Australia. 
-14. Geografi Politik : cabang geografi yang khusus mengkaji aspek-aspek politik suatu wilayah dari segi geografi.
+1. **Geologi** : ilmu yang mempelajari bumi secara keseluruhan, kejadian, struktur, komposisi, sejarah, dan proses perkembangannya.
+2. **Geofisika** : ilmu yang mengkaji sifat-sifat bagian dalam bumi dengan metode dan teknik fisika, seperti mengukur gelombang seismik, gravitasi, dan medan magnet bumi.
+3. **Meteorologi** : ilmu yang mempelajari fenomena-fenomena atmosfer, misalnya udara, cuaca, suhu, dan angin.
+4. **Astronomi** : ilmu yang mempelajari benda-benda langit di luar angkasa, seperti bulan, bintang, planet, dan galaksi.
+5. **Biogeografi** : studi tentang persebaran makhluk hidup secara geografis di muka bumi.
+6. **Geomorfologi** : studi tentang bentuk-bentuk muka bumi dan segala proses yang menghasilkan bentuk-bentuk tersebut.
+7. **Hidrografi** : ilmu yang berhubungan dengan pengukuran, serta pemetaan wilayah perairan seperti laut, danau, dan sungai.
+8. **Oceanografi** : ilmu yang mempelajari lautan, misalnya sifat air laut, pasang surut, arus laut, dan morfologi dasar laut.
+9. **Paleontologi** : ilmu yang mengkaji tentang fosil-fosil serta bentuk-bentuk kehidupan di masa purba (prasejarah) yang terdapat di bawah lapisan-lapisan bumi.
+10. **Antropogeografi** : cabang geografi yang mempelajari penyebaran bangsa-bangsa di muka bumi dilihat dari sudut geografis. Oleh karena itu, bidang ilmu ini disebut juga etnogeografi.
+11. **Geografi Matematis** : ilmu geografi yang berkenaan dengan perhitungan bentuk, ukuran, serta gerakan bumi: lintang dan bujur, meridian, paralel, dan luas permukaan bumi.
+12. **Geografi Sejarah** : cabang geografi yang mempelajari manusia dan geografi dari sudut sejarah dan perkembangannya.
+13. **Geografi Regional** : cabang geografi yang mempelajari suatu kawasan tertentu secara khusus, misalnya, geografi regional Asia, geografi regional Amerika, dan geografi regional Australia. 
+14. **Geografi Politik** : cabang geografi yang khusus mengkaji aspek-aspek politik suatu wilayah dari segi geografi.
